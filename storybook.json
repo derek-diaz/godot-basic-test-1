@@ -1,0 +1,10 @@
+[ 
+	{
+		"prompts": ["Name", "Movie"],
+		"story":"Once upon a time %s watched %s and thought it was the greatest movie"
+	},
+	{
+		"prompts": ["Value 1", "Value 2"],
+		"story":"Value 1: %s | Value 2: %s"
+	}
+]
